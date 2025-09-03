@@ -50,3 +50,24 @@ cd Iris-Classification
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+
+
+Model Training & Evaluation
+
+Summarize your modeling process:
+
+Splitting dataset (e.g., 80% train, 20% test)
+
+Feature scaling or encoding (if done)
+
+Models tried: logistic regression, KNN, decision tree, Naive Bayes, Random Forest (common for Iris projects) 
+upGrad
+DataFlair
+Medium
+.
+
+Evaluation metrics: accuracy, classification report, confusion matrix, recall, precision, F1-score 
+Medium
+Medium
+.
